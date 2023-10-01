@@ -10,7 +10,7 @@ public class Ex2_4 {
         long big = 100_000_000_000L;
         long hex = 0xFFFF_FFFF_FFFF_FFFFL;
 
-        int octNum = 010;
+        int octNum = 10;
         int hexNum = 0x10;
         int binNum = 0b10;
         System.out.printf("b=%d%n", b);
